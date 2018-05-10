@@ -1,2 +1,2 @@
-# WPT
-Makes groups 
+# groupMaker
+Group Maker
